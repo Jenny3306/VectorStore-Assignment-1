@@ -79,3 +79,7 @@ For detailed requirements and specifications, refer to the PDF file:
 - The project uses standard C++ libraries
 - Memory management follows proper allocation/deallocation practices
 - Test cases are available in the `tests/` directory
+
+## 📄 License
+
+This project is created for educational purposes as part of a university assignment at HCMUT.
