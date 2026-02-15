@@ -6,6 +6,14 @@ C++ implementation for Assignment 1 of the Data Structures and Algorithms (DSA) 
 
 This project implements a **Vector Store** data structure in C++, focusing on efficient storage and retrieval of vector data with various operations commonly used in data structure courses.
 
+
+## 📚 Key Features
+
+- **Vector Storage**: Efficient storage and management of vector elements
+- **Core Operations**: Insert, delete, search, and access operations
+- **Dynamic Memory Management**: Proper allocation and deallocation
+- **Testing Support**: Helper functions for unit testing and validation
+
 ## 📁 Project Structure
 
 ```
@@ -37,11 +45,6 @@ VectorStore-Assignment-1/
 g++ -o main main.cpp src/VectorStore.cpp -std=c++11
 ```
 
-### Using Makefile (if available):
-```bash
-make
-```
-
 ## ▶️ Running the Program
 
 ```bash
@@ -57,13 +60,6 @@ The project includes testing utilities in `TestHelper.h` for validating Vector S
 g++ -o main main.cpp src/VectorStore.cpp -std=c++11
 ./main
 ```
-
-## 📚 Key Features
-
-- **Vector Storage**: Efficient storage and management of vector elements
-- **Core Operations**: Insert, delete, search, and access operations
-- **Dynamic Memory Management**: Proper allocation and deallocation
-- **Testing Support**: Helper functions for unit testing and validation
 
 ## 📖 Course Information
 
